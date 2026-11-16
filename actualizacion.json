@@ -7,9 +7,9 @@
   "sha256": "f4dc0259a530209256810561409e465c050c7b3ad146f722617bea9369df451b",
   "tamano": 13960460,
   "notas": "",
-  "obligatoria": true,
+  "obligatoria": false,
   "porcentaje": 100,
-  "emitida": "2026-11-16T10:46:14Z"
+  "emitida": "2026-11-16T16:12:19Z"
  },
- "firma": "3eb054de9d0b906299685e7fd75cec0a3ec19f9358e2d38d240ca95bcfc7694e138edcc0dc91a36b760037ad3625d1e40fab5a6089f855c2574a1c8b92182305"
+ "firma": "a7d64669797047d4eab8dcb3857ab9fe879dbf90efb320c60478d161586ba3c98bbe332bb0a961074d2767724b01023a099f8b6080a36307fb14ab35dcfdeb0d"
 }
