@@ -2,14 +2,14 @@
  "actualizacion": {
   "tipo": "actualizacion",
   "producto": "PC-Doctor",
-  "version": "1.0.2",
-  "url": "https://github.com/magi009/PC-Doctor-control/releases/download/v1.0.2/PC-Doctor.exe",
-  "sha256": "ccbebc27c477610cb99c3fd1b4e302f6d87ea09d3c7b60e3d5a5abd1fad8aa27",
-  "tamano": 13959467,
+  "version": "1.0.3",
+  "url": "https://github.com/magi009/PC-Doctor-control/releases/download/v1.0.3/PC-Doctor.exe",
+  "sha256": "f4dc0259a530209256810561409e465c050c7b3ad146f722617bea9369df451b",
+  "tamano": 13960460,
   "notas": "",
   "obligatoria": false,
   "porcentaje": 100,
-  "emitida": "2026-11-16T04:06:29Z"
+  "emitida": "2026-11-16T10:33:45Z"
  },
- "firma": "3d5ff9e2403f251f9fca8e2ae0bdea0f3fff8915d24c59e4f7709674cefc757a410a962ea31417551a2fcd7101a6da656f42258d915add957c216de1b1bb7303"
+ "firma": "37fed5ddf49344d32e565880d576e39b1fab7d2d27d91d63761383bfe7c572324f341ef090ef1443f3db6bab639b52a3bb9920f599a27bbb8539dbff69cc1c09"
 }
