@@ -6,10 +6,10 @@
   "url": "https://github.com/magi009/PC-Doctor-control/releases/download/v1.0.2/PC-Doctor.exe",
   "sha256": "ccbebc27c477610cb99c3fd1b4e302f6d87ea09d3c7b60e3d5a5abd1fad8aa27",
   "tamano": 13959467,
-  "notas": "{\n \"actualizacion\": {\n  \"tipo\": \"actualizacion\",\n  \"producto\": \"PC-Doctor\",\n  \"version\": \"1.0.2\",\n  \"url\": \"https://github.com/magi009/PC-Doctor-control/releases/download/v1.0.2/PC-Doctor.exe\",\n  \"sha256\": \"ccbebc27c477610cb99c3fd1b4e302f6d87ea09d3c7b60e3d5a5abd1fad8aa27\",\n  \"tamano\": 13959467,\n  \"notas\": \"\",\n  \"obligatoria\": false,\n  \"porcentaje\": 100,\n  \"emitida\": \"2026-11-16T03:44:27Z\"\n },\n \"firma\": \"2f9586b439792707231fbcbbd8ba3bdfba921528360947f0f694e684cc8e91119e5e606397abb3abebbda04387005aaf8408655bdb22a7e5deb166b6362abe05\"\n}",
-  "obligatoria": true,
+  "notas": "",
+  "obligatoria": false,
   "porcentaje": 100,
-  "emitida": "2026-11-16T03:47:25Z"
+  "emitida": "2026-11-16T04:06:29Z"
  },
- "firma": "47163a46179a2d86ee231a3335671727f498f2085555d269370fdce947816f6d9833ea02aa742e8004c0e2a1df442df526f1e20a17702a9031ba276bc78a3d0c"
+ "firma": "3d5ff9e2403f251f9fca8e2ae0bdea0f3fff8915d24c59e4f7709674cefc757a410a962ea31417551a2fcd7101a6da656f42258d915add957c216de1b1bb7303"
 }
